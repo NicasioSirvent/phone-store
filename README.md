@@ -16,4 +16,6 @@ ng g component cart
 ng g component shipping
 
 # https://angular.io/start/start-forms
+
+# https://angular.io/start/start-deployment
 ```
