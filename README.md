@@ -18,4 +18,7 @@ ng g component shipping
 # https://angular.io/start/start-forms
 
 # https://angular.io/start/start-deployment
+ng build #defaults to production build config
+
+- Copy the contents of the dist/my-project-name folder to your web server.
 ```
